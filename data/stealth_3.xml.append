@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mod:findLike type="offsets">
+    <mod:findLike type="floor">
+        <mod:setAttributes x="65" y="110"/>
+    </mod:findLike>
+</mod:findLike>

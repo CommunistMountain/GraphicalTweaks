@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<title><![CDATA[ Graphical Tweaks ]]></title>
+	<threadUrl><![CDATA[ NIL ]]></threadUrl>
+	<author><![CDATA[ CommunistMountain ]]></author>
+	<version><![CDATA[ 1.0 ]]></version>
+	<description>
+<![CDATA[
+1. Map Background tweak: visual clarity is a problem when beacons appear over bright regions of the default backgrounds, or when Mike Hopley's Enhanced Fleet Pursuit mod shows dark lines over dark regions. This mod replaces the 3 backgrounds with a solid dark grey to solve this.
+2. Floor Image tweak: all vanilla ships now use a more consistent floor image, revealing more of the underlying art, as well as having consistent width from walls and doors.
+]]>
+	</description>
+</metadata>
