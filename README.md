@@ -1,5 +1,5 @@
 # GraphicalTweaks
-Mod for the game FTL: Faster Than Light. Changes floor images and map backgrounds. Latest version: 1.0
+Mod for the game FTL: Faster Than Light. Changes floor images and map backgrounds.
 
 The release GraphicalTweaks.zip contains folders "data", "img" and "mod-appendix". Use with [Slipstream Mod Manager](https://github.com/Vhati/Slipstream-Mod-Manager) or [FTL Mod Manager](https://github.com/afishhh/ftlman). Change the file extension from .zip to .ftl, or change the setting to consider .zip files as mods.
 
