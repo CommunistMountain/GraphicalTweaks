@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<FTL>
 <mod:findComposite>
 	<mod:par op="OR">
 		<mod:findName type="shipBlueprint" name="PLAYER_SHIP_HARD_3"/>
@@ -15,3 +16,4 @@
         <mod:removeTag/>
     </mod:findLike>
 </mod:findComposite>
+</FTL>
